@@ -8,6 +8,6 @@ La mayoría de los temas son basados en el libro [Digital Image Processing. Gonz
 
 El presente repositorio contiene tres grandes grupos.
 
+- `code` = Todos los notebooks con el codigo de los temas vistos en clase
 - `docs` = Guías de repaso sobre teoria de los temas vistos en clase.
 - `examenes` = Examenes con enunciado y solucion
-- `temas` = Todos los notebooks con el codigo de los temas vistos en clase
